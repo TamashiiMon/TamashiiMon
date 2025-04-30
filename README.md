@@ -18,7 +18,7 @@ I am a Java developer with a passion for programming Minecraft plugins!
 
 ### 📫 Contact
 
-You can reach me on Discord: **Terrocraft**  
+You can reach me on Discord: **TamashiiMon**  
 [Discord Link](https://discord.com/users/Terrocraft)
 
 
