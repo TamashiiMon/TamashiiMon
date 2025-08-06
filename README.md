@@ -21,12 +21,6 @@ I am a Java developer with a passion for programming Minecraft plugins!
 You can reach me on Discord: **TamashiiMon**  
 [Discord Link](https://discord.com/users/Terrocraft)
 
-
-### 🚀 Let's collaborate!
-
-🌟 I'm excited about working on interesting projects and collaborating! 🌟
-
-
 ## 🔥 My Year on GitHub
 
 Check out what I've achieved on GitHub this year:
