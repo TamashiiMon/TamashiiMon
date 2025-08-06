@@ -13,9 +13,6 @@ I am a Java developer with a passion for programming Minecraft plugins!
 - 🛠️ [RandEditor](https://github.com/Terrocraft/Randeditor)
 - 🛠️ [Stepper8825Lib](https://github.com/WBS-Wissen/Stepper8825Lib)
 
-### My Maven Reposetorys
-[Click Here](http://terrocraft.tech:8080/#/)
-
 ### 📫 Contact
 
 You can reach me on Discord: **TamashiiMon**  
