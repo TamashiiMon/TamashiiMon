@@ -5,7 +5,7 @@
 </div>
 
 ---
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamashiiMon&layout=donut&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true"/>
 I am a Java developer with a passion for programming Minecraft plugins!
 
 ### ✨ Projects and Plugins ✨
@@ -15,9 +15,6 @@ I am a Java developer with a passion for programming Minecraft plugins!
 
 ### My Maven Reposetorys
 [Click Here](http://terrocraft.tech:8080/#/)
-
-### I Work With
-<img src="https://skillicons.dev/icons?i=java,idea,html,css,js,cloudflare,mysql,arduino,cpp,github" /><br>
 
 ### 📫 Contact
 
