@@ -23,7 +23,7 @@ You can reach me on Discord: **TamashiiMon**
 
 Check out what I've achieved on GitHub this year:
 
-[![GitHub Unwrapped](https://githubunwrapped.com/Terrocraft/badge)](https://githubunwrapped.com/Terrocraft)
+[![GitHub Unwrapped](https://githubunwrapped.com/TamashiiMon/badge)](https://githubunwrapped.com/TamashiiMon)
 
 ## 📊 GitHub Statistics
 
