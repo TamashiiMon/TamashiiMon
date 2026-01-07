@@ -27,4 +27,4 @@ Check out what I've achieved on GitHub this year:
 
 ## 📊 GitHub Statistics
 
-<img src="https://raw.githubusercontent.com/Terrocraft/Terrocraft/output/snake.svg" alt="Snake animation" />
+<img src="https://github-profile-randomizer.vercel.app/api/random" alt="Random animation" />
