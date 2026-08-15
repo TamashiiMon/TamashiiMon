@@ -10,7 +10,6 @@ I am a Java developer with a passion for programming Minecraft plugins!
 
 ### ✨ Projects and Plugins ✨
 
-- 🛠️ [RandEditor](https://github.com/Terrocraft/Randeditor)
 - 🛠️ [Stepper8825Lib](https://github.com/WBS-Wissen/Stepper8825Lib)
 - 🖍️ [CrayonSMP](https://github.com/CrayonSMP)
 
